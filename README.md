@@ -1,5 +1,3 @@
-# FlutterGitCommit_Introduce
-
 ## 소스코드 소개
 깃허브의 원하는 날짜의 커밋 횟수를 파싱하기 위한 코드 템플릿
 
